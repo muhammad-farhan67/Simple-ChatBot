@@ -4,7 +4,7 @@ import os
 
 # Configure API Key
 
-Google_API_KEY = "AIzaSyA76y4VjfH7Ara7qo3uH6binRS6ixAMgfc"
+Google_API_KEY = "" #provide your api key which you can generate from going to gemini Api key and paste in the double quote
 genai.configure(api_key=Google_API_KEY)
 # Model initiation
 model = genai.GenerativeModel('gemini-1.5-flash')
