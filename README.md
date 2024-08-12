@@ -25,7 +25,7 @@ To run this application, you need to have Python installed on your system. Follo
 
 3. **Run the Application**:
     ```bash
-    streamlit run app.py
+    streamlit run chatbot.py
     ```
 
 ## Usage
